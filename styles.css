@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+@font-face {
+  font-family: 'Computer Modern';
+  src: url('fonte_cm/cmunui.ttf');
+}
+
+body {
+  overflow:hidden;
+  margin:0;
+}
+
+text {
+  font-family: 'Roboto', sans-serif;
+  pointer-events: none;
+  fill: #656565 !important
+}
+
+.link {
+  stroke: #cdcdcd !important;
+}
